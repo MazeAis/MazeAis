@@ -13,7 +13,7 @@
 - [osTicket: Ticket Lifecycle Examples](https://github.com/MazeAis/ticket-lifecycle)
 
 ### ☁️ Microsoft Azure Projects
-- [Configuring On-Premises Active Directory in Azure VMs](https://github.com/MazeAis/configure-ad)
+- [Configuring Active Directory in Azure VMs](https://github.com/MazeAis/configure-ad)
 - [NSGs & Network Protocol Analysis](https://github.com/MazeAis/azure-network-protocols)
 
 ---
