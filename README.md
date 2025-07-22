@@ -1,34 +1,26 @@
-<h1>Hi, I'm Naven, an <a href="www.linkedin.com/in/naven-satrohan">IT Professional</a>☺</h1>
+# Hi, I'm Naven! 👋  
+### [IT Professional](https://www.linkedin.com/in/naven-satrohan) | Passionate About Infrastructure, Cloud & Cybersecurity
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+---
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MazeAis/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MazeAis/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MazeAis/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MazeAis/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MazeAis/azure-network-protocols)
+## 👨‍💻 Information Technology Projects
 
-<h2>🤳Connect with me:</h2>
+### 🎫 osTicket (Help Desk Ticketing System)
+- [osTicket: Prerequisites and Installation](https://github.com/MazeAis/osticket-prereqs)
+- [osTicket: Post-Installation Configuration](https://github.com/MazeAis/post-install-config)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/MazeAis/ticket-lifecycle)
 
+### ☁️ Microsoft Azure Projects
+- [Configuring On-Premises Active Directory in Azure VMs](https://github.com/MazeAis/configure-ad)
+- [NSGs & Network Protocol Analysis](https://github.com/MazeAis/azure-network-protocols)
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
+## 🔗 Connect with Me
 
-[linkedin]: www.linkedin.com/in/naven-satrohan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naven%20Satrohan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naven-satrohan)
 
-<!--
-**MazeAis/MazeAis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Optional: Add visitor badge or GitHub stats -->
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MazeAis) -->
