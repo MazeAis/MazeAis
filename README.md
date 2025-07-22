@@ -1,6 +1,8 @@
 # Hi, I'm Naven! 👋  
 ### [IT Professional](https://www.linkedin.com/in/naven-satrohan) | Passionate About Infrastructure, Cloud & Cybersecurity
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MazeAis.MazeAis)
+
 ---
 
 ## 👨‍💻 Information Technology Projects
