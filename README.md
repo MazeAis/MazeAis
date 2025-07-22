@@ -14,7 +14,7 @@
 
 ### ☁️ Microsoft Azure Projects
 - [Configuring Active Directory in Azure VMs](https://github.com/MazeAis/configure-ad)
-- [NSGs & Network Protocol Analysis](https://github.com/MazeAis/azure-network-protocols)
+- [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/MazeAis/azure-network-protocols)
 
 ---
 
