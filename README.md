@@ -10,7 +10,6 @@
 ### 🎫 osTicket (Help Desk Ticketing System)
 - [osTicket: Prerequisites and Installation](https://github.com/MazeAis/osticket-prereqs)
 - [osTicket: Post-Installation Configuration](https://github.com/MazeAis/post-install-config)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/MazeAis/ticket-lifecycle)
 
 ### ☁️ Microsoft Azure Projects
 - [Configuring Active Directory in Azure VMs](https://github.com/MazeAis/configure-ad)
