@@ -15,8 +15,10 @@
 - [Configuring Active Directory in Azure VMs](https://github.com/MazeAis/configure-ad)
 - [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/MazeAis/azure-network-protocols)
 
----
+### 🔐 VPN (Virtual Private Network)
+- [VPN (Virtual Private Network) Analysis](https://github.com/MazeAis/vpn-setup)
 
+  
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naven%20Satrohan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naven-satrohan)
