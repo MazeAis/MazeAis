@@ -16,7 +16,7 @@
 - [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/MazeAis/azure-network-protocols)
 
 ### 🔐 VPN (Virtual Private Network)
-- [VPN (Virtual Private Network) Analysis](https://github.com/MazeAis/vpn-setup)
+- [VPN (Virtual Private Network) Setup and Analysis](https://github.com/MazeAis/vpn-setup)
 
   
 ## 🔗 Connect with Me
