@@ -20,7 +20,7 @@
 
 ## 🛡️ Cybersecurity Projects
 
-### Security Audits
+### 🔍 Security Audits
 - [Internal Security Audit (Botium Toys)](https://github.com/MazeAis/security-audit)
   
 ## 🔗 Connect with Me
