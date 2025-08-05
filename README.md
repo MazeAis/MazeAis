@@ -18,7 +18,9 @@
 ### 🔐 VPN (Virtual Private Network)
 - [VPN (Virtual Private Network) Setup and Analysis](https://github.com/MazeAis/vpn-setup)
 
-### 🛡️ Cybersecurity Projects
+## 🛡️ Cybersecurity Projects
+
+### Security Audits
 - [Internal Security Audit (Botium Toys)](https://github.com/MazeAis/security-audit)
   
 ## 🔗 Connect with Me
