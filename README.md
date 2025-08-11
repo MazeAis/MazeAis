@@ -20,9 +20,12 @@
 
 ## 🛡️ Cybersecurity Projects
 
+### 🐧 Linux 
+- [File Permissions Project](https://github.com/MazeAis/file-permissions-in-linux)
+  
 ### 🔍 Security Audits
 - [Internal Security Audit (Botium Toys)](https://github.com/MazeAis/security-audit)
-  
+    
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naven%20Satrohan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naven-satrohan)
