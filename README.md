@@ -23,7 +23,7 @@
 ### 🐧 Linux 
 - [File Permissions in Linux](https://github.com/MazeAis/file-permissions-in-linux)
 
-### SQL
+### 🗄️ SQL
 - [Apply filters to SQL queries](https://github.com/MazeAis/SQL-queries)
   
 ### 🔍 Security Audits
