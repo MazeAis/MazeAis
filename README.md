@@ -21,7 +21,7 @@
 ## 🛡️ Cybersecurity Projects
 
 ### 🐧 Linux 
-- [File Permissions Demonstration](https://github.com/MazeAis/file-permissions-in-linux)
+- [File Permissions in Linux](https://github.com/MazeAis/file-permissions-in-linux)
   
 ### 🔍 Security Audits
 - [Internal Security Audit (Botium Toys)](https://github.com/MazeAis/security-audit)
